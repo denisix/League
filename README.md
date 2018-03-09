@@ -11,7 +11,7 @@ All new coin. All new opportunities.
 # You have to buy Ubuntu 14.04 VPS to setup MN
 
 # Install requirements:
-sudo apt-get install -y build-essential libtool autotools-dev pkg-config libssl-dev libboost-all-dev autoconf automake git libqt4-dev libminiupnpc-dev libgmp-dev openssl software-properties-common
+sudo apt-get install -y build-essential libtool autotools-dev pkg-config libssl-dev libboost-all-dev autoconf automake git libqt4-dev libminiupnpc-dev libgmp-dev openssl software-properties-common libleveldb-dev
 git clone https://github.com/bitcoin-core/secp256k1
 cd secp256k1
 ./autogen.sh
