@@ -7,6 +7,7 @@ All new coin. All new opportunities.
 * https://league.express/
 
 # Exact instruction:
+```
 # You have to buy Ubuntu 14.04 VPS to setup MN
 
 # Install requirements:
@@ -69,3 +70,4 @@ nano ~/.League/League.conf
 masternodeaddr=x.x.x.x:19371
 masternode=1
 masternodeprivkey=privatekey
+```
