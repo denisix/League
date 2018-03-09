@@ -6,7 +6,7 @@ All new coin. All new opportunities.
 * https://github.com/LGACoin/League
 * https://league.express/
 
-# Exact instruction:
+# How-to setup:
 ```
 # You have to buy Ubuntu 14.04 VPS to setup MN
 
