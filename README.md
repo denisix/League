@@ -1,5 +1,6 @@
-# Fixed compilation issues
+# What i did:
 * error with leveldb caused by incorrect makefile.unix. Now you can successfully compile it.
+* updated from official repo (Fri Mar  9 19:00:05 EET 2018)
 
 # League Coin
 All new coin. All new opportunities. 
